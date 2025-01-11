@@ -4,7 +4,7 @@ A simple web application to manage employees, their departments, and contact det
 
 ## Demo
 
-![Employee Management System Demo](demo-video.gif)
+![Employee Management System Demo]([demo-video.gif](https://github.com/varun021/PHP-assignment-OGD/blob/main/demo-video.gif))
 
 ## Features
 
