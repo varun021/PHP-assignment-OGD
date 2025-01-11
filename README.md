@@ -2,6 +2,10 @@
 
 A simple web application to manage employees, their departments, and contact details using PHP, MySQL, and AJAX.
 
+## Demo
+
+![Employee Management System Demo](demo-video.gif)
+
 ## Features
 
 - Add employees with name, email, department, and phone number
